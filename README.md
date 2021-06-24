@@ -433,7 +433,6 @@ WikiQA corpus is a new publicly available set of question and sentence pairs, co
 		 Val. Loss: 4.719 |  Val. PPL: 112.050
 		 
 ## Training & Validation loss		
-
 	![image](https://user-images.githubusercontent.com/16242779/123310175-6d682900-d543-11eb-9776-ce2157cc8e41.png)
 
 
